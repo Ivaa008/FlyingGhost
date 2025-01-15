@@ -1,2 +1,26 @@
-# Flying Ghost
- 	This is my first Unity Game I made. It is 2D mobile game and the programing language 	used is C#. It is supposed to resemble Flappy Bird but with a unique style. I have made a character that moves in response to my input. I have spawned new objects on a timer. I have created a UI that shows the score and made that score go up when conditions are met. The game has the ability to start again. I added a function that kills the player and opens the game over screen when the player goes off-screen. I fixed the score so it doesn't go up when the player id dead. I added sound effects whenever the ghost goes through the pypes. I also added a new scene that is now my main scene from where I can start the game. Also in the future I plan to advance my game so it goes even further beyond. The things I want to add is: 	/Maybe a save the high score which I have not added yet becouse it diesnt go with the aestetics for now 	/I want to have more skins for the ghost that can be unlocked. 	/I want the backgound or the pypes to change when the player advances 	/I want to add a particle effect of other bats flying around the ghost
+<h4>Description</h4>
+<p>This is my first Unity game! It is a 2D mobile game programmed in C#. Inspired by Flappy Bird, but with a unique style.</p>
+
+<h4>Features Implemented</h4>
+<ul>
+    <li>Player movement responsive to input.</li>
+    <li>Dynamic obstacle spawning on a timer.</li>
+    <li>UI showing score, increasing with conditions.</li>
+    <li>Game restart after game-over.</li>
+    <li>Off-screen game-over function.</li>
+    <li>Fixed scoring bug post-game-over.</li>
+    <li>Sound effects when the ghost passes pipes.</li>
+    <li>New main menu scene.</li>
+</ul>
+
+<h4>Planned Features</h4>
+<ul>
+    <li>Save high scores (not added yet to maintain aesthetics).</li>
+    <li>Unlockable ghost skins.</li>
+    <li>Dynamic backgrounds and pipes as the player progresses.</li>
+    <li>Particle effects with bats flying around the ghost.</li>
+</ul>
+
+<h4>Future Goals</h4>
+<p>Continue enhancing the game to make it go even further beyond!</p>
+
